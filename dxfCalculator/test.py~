@@ -1,0 +1,3 @@
+f = open("square5.dxf")
+lines = f.readlines()
+print lines
