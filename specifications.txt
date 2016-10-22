@@ -1,0 +1,6 @@
+Upload DXF
+Calculate Price for LaserCutJob according to material and thickness selection
+Calculate shipping costs according to calculation of weight, size and shipping adress
+
+AddOn:
+A collecton of scripts that generate standart parts, eg. boxes or gears
