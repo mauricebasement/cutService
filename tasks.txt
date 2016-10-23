@@ -1,0 +1,6 @@
+-create a prtotype of the website (calculation of pathlenght)
+-generate g code from dxf for ideal cutting path
+-find out how to controll laser cutter (with rasperry pi?)
+-how to automate the cutting process?
+	-charging material
+	-uncharging finished cuttings
